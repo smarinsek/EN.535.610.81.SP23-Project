@@ -22,8 +22,8 @@ USING THE CODE
 
 ---------------------------------------------------------------------------------------------------
 
-UNDERSTANDING THE PHENOMENA
-- To better understand the phenomena that this package models, refer to the cold_xrays_explaination.pdf. This document also contains several questions to check readers' understanding.
+UNDERSTANDING THE PHENOMENA AND MODEL
+- To better understand the phenomena that this package models, refer to the cold_xrays_explaination_and_model.pdf. This document also contains several questions to check readers' understanding.
 
 ---------------------------------------------------------------------------------------------------
 
