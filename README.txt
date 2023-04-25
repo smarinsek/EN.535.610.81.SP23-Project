@@ -8,7 +8,12 @@ Modeling cold x-ray effects on materials
 
 PROJECT SUMMARY (Visual in project summary contained in slides)
 
-For this project, the group developed a library to simulate the effects of a high dosage cold x-ray exposure event and its effect of spacecraft materials. Cold x-ray events deposit significant amounts of energy on outer facing surfaces which can result in material removal via ablation from extreme energies and temperatures. The group performed an example simulation on a space radiator, used to exhaust satellite heat and found the cold x-ray exposure removed the specialized radiator’s thermal paint and even some of the radiator’s underlying structure.
+For this project, the group developed a library to simulate the effects of a high dosage cold x-ray
+exposure event and its effect of spacecraft materials. Cold x-ray events deposit significant
+amounts of energy on outer facing surfaces which can result in material removal via ablation from
+extreme energies and temperatures. The group performed an example simulation on a space radiator,
+used to exhaust satellite heat and found the cold x-ray exposure removed the specialized radiator’s
+thermal paint and even some of the radiator’s underlying structure.
 
 ---------------------------------------------------------------------------------------------------
 
@@ -29,7 +34,7 @@ USING THE CODE
 ---------------------------------------------------------------------------------------------------
 
 UNDERSTANDING THE PHENOMENA AND MODEL
-- To better understand the phenomena that this package models, refer to the cold_xrays_explaination_and_model.pdf. This document also contains several questions to check readers' understanding.
+- To better understand the phenomena that this package models, refer to the cold_xrays_explanation_and_model.pdf. This document also contains several questions to check readers' understanding.
 
 ---------------------------------------------------------------------------------------------------
 
